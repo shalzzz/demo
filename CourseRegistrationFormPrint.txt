@@ -1,0 +1,514 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0099)https://portal.sageuniversity.in/AccSoft/Parents/CourseRegistrationFormPrint.aspx?SID=6560&CID=1267 -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+   
+    
+    
+    <style type="text/css">
+        body
+        {
+            margin: 0px;
+            background-image: url();
+            background-repeat: repeat-x;
+            background-position: top;
+            background-color: #FFFFFF;
+            width: 100%;
+            font-size: 12px;
+            font-family: Verdana, Arial, Helvetica, sans-serif;
+        }
+       .MyTable
+          {
+    
+    height: 82px;
+          }
+
+          td{height:10px !important;}
+
+.MyTable td, th
+    {
+    padding: 5px 5px 5px 5px;
+    border-top: 1px solid #cccccc;
+    border-right: 1px solid #cccccc;
+    text-align:left;
+    text-align:center;
+  }
+
+        .Tbtext
+        {
+            font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+            font-size: 12px;
+            color: #333333;
+            text-decoration: none;
+            text-align: left;
+            line-height: 21px;
+            padding-left: 2px;
+        }
+        .TBStyle
+        {
+            font-size: 12px;
+            font-family: Verdana, Arial, Helvetica, sans-serif;
+            font-weight: normal;
+            color: #000000;
+            text-decoration: none;
+            text-align: left;
+            border: #FFFFFF 0px solid;
+            width: auto;
+        }
+        .border
+        {
+            border: 1px solid #9A9A9A;
+            background-color: #FFFFFF;
+        }
+        .High
+        {
+            font-family: Verdana, Arial, Helvetica, sans-serif;
+            font-size: 12px;
+            color: #000000;
+            font-weight: bold;
+            text-decoration: none;
+            line-height: 20PX;
+            border: 1px solid #9A9A9A;
+            background-color: #e9e9e9;
+        }
+        .lbl
+        {
+            text-align: left;
+            width: Auto;
+            height: Auto;
+        }
+               
+        .margin
+        {
+           margin-left:50px;
+        }
+        .style5
+        {
+            height: 23px;
+        }
+        .style6
+        {
+            height: 10px;
+        }
+        </style>
+    <script language="javascript" type="text/javascript">
+        function ClickToPrint() {
+            document.getElementById('btnp').style.display = 'none';
+            document.getElementById('btnc').style.display = 'none';
+            window.print();
+            document.getElementById('btnp').style.display = 'block';
+            document.getElementById('btnc').style.display = 'block';
+        }
+    </script>
+<title>
+
+</title></head>
+<body>
+    <form name="form1" method="post" action="https://portal.sageuniversity.in/AccSoft/Parents/CourseRegistrationFormPrint.aspx?SID=6560&amp;CID=1267" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="B52BCFEF">
+</div>
+    <div id="PrintDiv">
+        <table align="center" border="0" cellpadding="0" cellspacing="1" style="border-style: groove; border-width: medium; width: 750px; height:1080px;">
+          
+            <tbody><tr>
+                <td style="width: 750px; height: 125px; text-align: center; vertical-align: top;">
+                  
+                <table style="border-style: none; border-width: medium; width: 750px;margin-top"><tbody><tr><td colspan="3" style="border-style: none; border-width: medium; border-color: #000000; font-weight: bold; font-size: large;">
+                   </td></tr>
+                <tr><td style="text-align: right;width:100px;vertical-align: top;" rowspan="2" align="right">   
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
+                    <img id="Image1" src="./CourseRegistrationFormPrint_files/Logo_2714SageUniversitylogo.jpg" style="height:90px;width:90px;border-width:0px;">
+                   
+                    </td>
+                    <td style="text-align: center" colspan="3">
+                        <span id="lblcompanyname" style="color:Black;font-family:Times New Roman;font-size:25px;font-weight:bold;text-decoration:none;">SAGE UNIVERSITY, INDORE</span>
+                        <br>
+                       
+                        <span id="lblcompanyaddre" style="font-family:Times New Roman;font-size:Medium;">Kailod Kartal, Rau Bypass Road</span>
+                             <span id="lblcity" style="font-family:Times New Roman;font-size:Medium;">Indore</span>
+                        </td>
+                   
+                    
+                    </tr>
+                <tr><td colspan="3" style="text-align: center; font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 18px; font-weight: bold; ">   
+                   
+                      SEMESTER REGISTRATION FORM</td></tr>
+                  
+                     <tr><td style="border-style: groove none none none; border-width: medium; text-align: center; border-top-color: #000000; font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 15px;" colspan="3" align="left">   
+                   
+    : 
+     :<table width="100%" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 14px">
+                             <tbody><tr>
+                             <td colspan="8">
+                             
+                             <h3 align="left" style=" margin-top: 0px; margin-bottom:0px;"><strong>Personal Information: -</strong></h3> 
+                             </td>
+                             </tr>
+                 <tr>
+
+                 <td align="left" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 17px" height="30">Institute Name <br>
+                     </td>
+                 <td align="center" style="font-weight: bold">: </td>
+                 <td align="left" colspan="3">
+                     <span id="lblInstituteName">Institute of Computer Application</span>
+                     </td>
+                 
+                 <td align="right" rowspan="4" style="vertical-align: top;">
+                  
+                    <img id="imgphoto" src="./CourseRegistrationFormPrint_files/4495_Stu_e536900b7f64495490778cfc67f43bec_IMG_20191011_091750-01 - Shalu Rathore.jpeg" style="border-width:1px;border-style:Groove;height:110px;width:110px;">
+                     </td>
+                 </tr>
+
+                   <tr>
+                 <td align="left" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 17px" height="30">Semester
+                     :<br>
+                       </td>
+                  <td align="center" style="font-weight: bold">: </td>
+                 <td align="left" colspan="3">
+                     <span id="lblSemester">Master of Computer Application V Semeste</span>
+                       </td>
+               
+                 </tr>
+
+                  <tr>
+                 <td align="left" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 17px" height="30" width="165px">Enrollment No 
+                     <br>
+                       </td>
+                  <td align="center" style="font-weight: bold">: </td>
+                 <td align="left" colspan="3">
+                     <span id="lblEnrollment">19COA9MCA0056</span>
+                       </td>
+                
+                 </tr>
+
+                  <tr>
+                 <td align="left" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 17px" height="30">Student's Name
+                     :<br>
+                       </td>
+                  <td align="center" style="font-weight: bold">: </td>
+                 <td align="left" colspan="3">
+                     <span id="lblStudentNAme">SHALU RATHORE</span>
+                       </td>
+                
+                 </tr>
+
+                  
+
+                   <tr>
+                 <td align="left" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 17px" height="30">Mobile No  </td>
+                  <td align="center" style="font-weight: bold" height="30">: </td>
+                 <td align="left" height="30">
+                     <span id="lblMobileNo">9826099147</span>
+                       </td>
+               <td align="left" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 17px" height="30">
+                            EmailID
+                           </td>
+                  <td style="font-weight: bold" height="30"> :</td>
+                 <td align="left" height="30">
+                    
+                     <span id="lblSEmailID" style="display:inline-block;width:180px;">shalurathore178@gmail.com</span>
+                       </td>
+                 </tr>
+
+                 <tr>
+                 <td align="left" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 17px" height="30">
+                            Date Of Filling
+                           </td>
+                  <td align="center" style="font-weight: bold" height="30">: </td>
+                 <td align="left">
+                     <span id="lblDate">18-Aug-2020</span>
+                       </td>
+               <td align="left" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 17px" height="30">
+                          
+                           </td>
+                  <td style="font-weight: bold" height="30"> &nbsp;</td>
+                 <td align="left">
+                    
+                       </td>
+                 </tr>
+
+
+                    
+                  <tr>
+                             <td colspan="8">
+                             
+                             <h3 align="left" style="margin-top: 5px; margin-bottom: 3px;"><strong>Father's Information : -</strong></h3> 
+                             </td>
+                             </tr>
+                 <tr>
+                 <td align="left" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 17px">Father's Name </td>
+                  <td align="center" style="font-weight: bold">: </td>
+                 <td align="left">
+                     <span id="lblFather">MR. MAHENDRA RATHORE</span>
+                       </td>
+               <td align="left" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 17px">
+                           Occupation 
+                           </td>
+                  <td style="font-weight: bold"> :</td>
+                 <td align="left">
+                    
+                     <span id="lblOccupation"></span>
+                       </td>
+                 </tr>
+
+                   <tr>
+                 <td align="left" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 17px">Annual Income </td>
+                  <td align="center" style="font-weight: bold">: </td>
+                 <td align="left">
+                     <span id="lblAnnualIncome">0.00</span>
+                       </td>
+               <td align="left" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 17px">
+                           Email :
+                           </td>
+                  <td style="font-weight: bold"> :</td>
+                 <td align="left">
+                    
+                     <span id="lblFEmail"></span>
+                       </td>
+                 </tr>
+
+                   <tr>
+                 <td align="left" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 17px" class="style5">Mobile No </td>
+                  <td align="center" style="font-weight: bold" class="style5">: </td>
+                 <td align="left" class="style5">
+                     <span id="lblFMobileno">9754038210</span>
+                       </td>
+               <td align="left" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 17px" class="style5">
+                           Office Phone 
+                           </td>
+                  <td style="font-weight: bold" class="style5"> :</td>
+                 <td align="left" class="style5">
+                    
+                     <span id="lblOfficePhone"></span>
+                       </td>
+                 </tr>
+
+                     <tr>
+                 <td align="left" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 17px"> Residence</td>
+                  <td align="center" style="font-weight: bold">: </td>
+                 <td align="left" colspan="4">
+                     <span id="lblResidence"></span>
+                       </td>
+             
+                  
+                
+                 </tr>
+
+                
+                 <tr>
+                             <td colspan="4">
+                             
+                             <h3 align="left" style="padding:0px;padding-bottom:0px; margin-top: 5px; margin-bottom: 3px;"><strong>Paid Fees Details :-</strong></h3> 
+                             </td>
+                             </tr>
+                            <tr>
+                 <td align="left" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 17px" class="style6">Due Amount</td>
+                  <td align="center" style="font-weight: bold" class="style6">: </td>
+                 <td align="left" class="style6">
+                     <span id="lblDueAmount">62190.00</span>
+                       </td>
+               <td align="left" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 17px" class="style6">
+                          Paid Amount 
+                           </td>
+                  <td style="font-weight: bold" class="style6"> :</td>
+                 <td align="left" class="style6">
+                    
+                     <span id="lblPaidAmount">1000.00</span>
+                       </td>
+                 </tr>
+                  <tr>
+                 <td align="left" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 17px" class="style5"> 
+                          Comitted Date
+                           </td>
+                  <td align="center" style="font-weight: bold" class="style5">: </td>
+                 <td align="left" class="style5">
+                
+                     <span id="lblComittedDate">10-Jan-2020</span>
+                
+                       </td>
+               <td align="left" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 17px" class="style5">
+                        
+                           TransactionID</td>
+                  <td style="font-weight: bold" class="style5"> :</td>
+                 <td align="left" class="style5">
+                    
+                
+                     <span id="lblTransactionID">23061794</span>
+                
+                       </td>
+                 </tr>
+
+                 <tr>
+                 <td align="left" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 17px" class="style5"> 
+                           Bank Ref. No.
+                                       </td><td align="center" style="font-weight: bold" class="style5">: </td>
+                 <td align="left" class="style5">
+                
+                     <span id="lblBankReferenceNo">-</span>
+                
+                       </td>
+               <td align="left" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: 17px" class="style5">
+                         
+                                       </td><td style="font-weight: bold" class="style5"> &nbsp;</td>
+                 <td align="left" class="style5">
+                    
+                
+                       </td>
+                 </tr>
+            
+              <tr>
+                             <td colspan="4">
+                             
+                             <h3 align="left" style=" margin-top: 5px; margin-bottom: 3px;"><strong>Subject Details :-</strong></h3>
+                             </td>
+                             </tr>
+                   </tbody></table>
+                    </td></tr>
+
+                   
+                     <tr>
+                     <td style="text-align: center;" colspan="2">   
+                     <div>
+	<table cellspacing="0" rules="all" border="1" id="grdsubjectT" style="width:100%;border-collapse:collapse;">
+		<tbody><tr>
+			<th align="center" scope="col" style="width:35px;">Sr.</th><th scope="col" style="height:20px;width:120px;">Subject Code</th><th scope="col" style="width:300px;">Subject Name</th>
+		</tr><tr>
+			<td align="center" style="width:35px;">
+                                                    1
+                                                   
+                                                </td><td style="height:20px;">
+                            
+                                  <span id="grdsubjectT_ctl02_lblSubjectCode">MCAUSP01T</span>
+                              </td><td align="left">
+                                  <span id="grdsubjectT_ctl02_lblSubjectName">Unix &amp; Shell Programming</span>
+                              </td>
+		</tr><tr>
+			<td align="center" style="width:35px;">
+                                                    2
+                                                   
+                                                </td><td style="height:20px;">
+                            
+                                  <span id="grdsubjectT_ctl03_lblSubjectCode">MCADWD02T</span>
+                              </td><td align="left">
+                                  <span id="grdsubjectT_ctl03_lblSubjectName">Data Warehousing and Data Mining</span>
+                              </td>
+		</tr><tr>
+			<td align="center" style="width:35px;">
+                                                    3
+                                                   
+                                                </td><td style="height:20px;">
+                            
+                                  <span id="grdsubjectT_ctl04_lblSubjectCode">MCADAA03T</span>
+                              </td><td align="left">
+                                  <span id="grdsubjectT_ctl04_lblSubjectName">Design and Analysis of Algorithms</span>
+                              </td>
+		</tr><tr>
+			<td align="center" style="width:35px;">
+                                                    4
+                                                   
+                                                </td><td style="height:20px;">
+                            
+                                  <span id="grdsubjectT_ctl05_lblSubjectCode">MCANES04T</span>
+                              </td><td align="left">
+                                  <span id="grdsubjectT_ctl05_lblSubjectName">Network Security</span>
+                              </td>
+		</tr><tr>
+			<td align="center" style="width:35px;">
+                                                    5
+                                                   
+                                                </td><td style="height:20px;">
+                            
+                                  <span id="grdsubjectT_ctl06_lblSubjectCode">MCAELE05T (a)</span>
+                              </td><td align="left">
+                                  <span id="grdsubjectT_ctl06_lblSubjectName">Elective-II ( Cloud Computing Architecture)</span>
+                              </td>
+		</tr><tr>
+			<td align="center" style="width:35px;">
+                                                    6
+                                                   
+                                                </td><td style="height:20px;">
+                            
+                                  <span id="grdsubjectT_ctl07_lblSubjectCode">MCAUSP01P</span>
+                              </td><td align="left">
+                                  <span id="grdsubjectT_ctl07_lblSubjectName">Unix &amp; Shell Programming Lab</span>
+                              </td>
+		</tr><tr>
+			<td align="center" style="width:35px;">
+                                                    7
+                                                   
+                                                </td><td style="height:20px;">
+                            
+                                  <span id="grdsubjectT_ctl08_lblSubjectCode">MCAMPR06P</span>
+                              </td><td align="left">
+                                  <span id="grdsubjectT_ctl08_lblSubjectName">Minor Project</span>
+                              </td>
+		</tr>
+	</tbody></table>
+</div>
+                    </td>
+                   
+                    </tr>
+                   
+                <tr>
+                <td colspan="3">
+                <table width="100%" style="    margin-top: -20px;">
+                 <tbody><tr>
+                    
+                      <td align="left" style="border-style: none none groove none; font-family: &#39;Times New Roman&#39;, Times, serif; font-size: medium; font-weight: bold">
+                          &nbsp;</td>
+                    </tr>
+               
+               
+                    </tbody></table>
+                </td>
+                </tr>
+                </tbody></table>
+                </td>
+            </tr>
+            <tr>
+            <td colspan="3">
+              <br>
+                <br>
+                 
+                    
+             <table>
+             <tbody><tr>
+             <td align="center" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: medium; font-weight: bold;" width="250">---------------------------
+
+                         </td>
+                <td style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: medium; font-weight: bold" width="250" align="center">
+                    </td>
+                <td style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: medium; font-weight: bold" width="250" align="center">---------------------------------
+                    </td>
+             </tr>
+             <tr>
+              <td align="center" style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: medium; font-weight: bold;" width="250">
+                          Signature of Student</td>
+                <td style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: medium; font-weight: bold" width="250" align="center">
+                    </td>
+                <td style="font-family: &#39;Times New Roman&#39;, Times, serif; font-size: medium; font-weight: bold" width="250" align="center">
+                        Signature of HOD
+                    </td>
+                </tr> 
+             
+             </tbody></table>
+             
+                            
+            
+            </td>
+            </tr>
+        </tbody></table>
+       
+
+       
+    </div>
+    </form>
+
+
+</body></html>
